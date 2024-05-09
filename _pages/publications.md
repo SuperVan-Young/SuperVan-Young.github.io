@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Conference Papers
+## Conference Papers
 
 [C7] Xingchen Li, Zhe Zhou, Qilin Zheng, Guangyu Sun, Qiankun Wang, and **Chenhao Xue**. "A Software-Hardware Co-design Solution for 3D Inner Structure Reconstruction", *to appear* in the Proceedings of Design Automation Conference (**DAC**), Jun, 2024.
 
