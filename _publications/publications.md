@@ -1,5 +1,5 @@
 ---
-permalink: /publications/publications/
+permalink: /publications.md
 ---
 
 # Conference Papers

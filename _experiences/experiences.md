@@ -1,5 +1,5 @@
 ---
-permalink: /experiences/experiences
+permalink: /experiences.md
 ---
 
 # Education
