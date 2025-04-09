@@ -5,18 +5,20 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Journals
+
+[J1] [Large circuit models: opportunities and challenges](https://link.springer.com/article/10.1007/s11432-024-4155-7), Lei Chen, Yiqi Chen, Zhufei Chu, Wenji Fang, Tsung-Yi Ho, Ru Huang, Yu Huang, Sadaf Khan, Min Li, Xingquan Li, Yu Li, Yun Liang, Jinwei Liu, Yi Liu, Yibo Lin, Guojie Luo, Hongyang Pan, Zhengyuan Shi, Guangyu Sun, Dimitrios Tsaras, Runsheng Wang, Ziyi Wang, Xinming Wei, Zhiyao Xie, Qiang Xu, **Chenhao Xue**, Junchi Yan, Jun Yang, Bei Yu, Mingxuan Yuan, Evangeline FY Young, Xuan Zeng, Haoyi Zhang, Zuodong Zhang, Yuxiang Zhao, Hui-Ling Zhen, Ziyang Zheng, Binwu Zhu, Keren Zhu, Sunan Zou. In the Science China Information Sciences, Oct, 2024.
+
 ## Conference Papers
 
-[C7] Xingchen Li, Zhe Zhou, Qilin Zheng, Guangyu Sun, Qiankun Wang, and **Chenhao Xue**. "A Software-Hardware Co-design Solution for 3D Inner Structure Reconstruction", *to appear* in the Proceedings of Design Automation Conference (**DAC**), Jun, 2024.
+[C6] [DiffuSE: Cross-Layer Design Space Exploration of DNN Accelerator via Diffusion-Driven Optimization](https://arxiv.org/pdf/2503.23945), Yi Ren, **Chenhao Xue**, Jiaxing Zhang, Chen Zhang, Qiang Xu, Yibo Lin, Lining Zhang, Guangyu Sun. In the Proceedings of International Symposium of Electronic Design Automation (**ISEDA**), May, 2025.
 
-[C6] **Chenhao Xue**, Chen Zhang, Xun Jiang, ZhuTianYa Gao, Yibo Lin, and Guangyu Sun. "Oltron: Software-Hardware Co-design for Outlier-Aware Quantization of LLMs with Inter-/Intra-Layer Adaptation", *to appear* in the Proceedings of Design Automation Conference (**DAC**), Jun, 2024.
+[C5] [DOMAC: Differentiable Optimization for High-Speed Multipliers and Multiply-Accumulators](https://arxiv.org/abs/2503.23943), **Chenhao Xue**, Yi Ren, Jinwei Zhou, Kezhi Li, Chen Zhang, Yibo Lin, Lining Zhang, Qiang Xu, Guangyu Sun. In the Proceedings of International Symposium of Electronic Design Automation (**ISEDA**), May, 2025.
 
-[C5] Zhihang Yuan, Yuzhang Shang, Yang Zhou, Zhen Dong, **Chenhao Xue**, Bingzhe Wu, Zhikai Li, Qingyi Gu, Yong Jae Lee, Yan Yan, Beidi Chen, Guangyu Sun, Kurt Keutzer, "LLM Inference Unveiled: Survey and Roofline Model Insights", arXiv preprint, 2024.
+[C4] [A Software-Hardware Co-design Solution for 3D Inner Structure Reconstruction](https://dl.acm.org/doi/abs/10.1145/3649329.3656522), Xingchen Li, Zhe Zhou, Qilin Zheng, Guangyu Sun, Qiankun Wang, and **Chenhao Xue**. In the Proceedings of Design Automation Conference (**DAC**), Jun, 2024.
 
-[C4] Tsung-Yi Ho, Sadaf Khan, Jinwei Liu, Yi Liu, Zhengyuan Shi, Ziyi Wang, Qiang Xu, Evangeline F.Y. Young, Bei Yu, Ziyang Zheng, Binwu Zhu, Keren Zhu, Yiqi Che, Yun Liang, Yibo Lin, Guojie Luo, Guangyu Sun, Runsheng Wang, Xinming Wei, **Chenhao Xue**, Haoyi Zhang, Zuodong Zhang, Yuxiang Zhao, Sunan Zou, Lei Chen, Yu Huang, Min Li, Dimitrios Tsaras, Mingxuan Yuan, Hui-Ling Zhen, Zhufei Chu, Wenji Fang, Xingquan Li and Zhiyao Xie. "The Dawn of AI-Native EDA: Promises and Challenges of Large Circuit Models", arXiv preprint, 2024.
+[C3] [Oltron: Software-Hardware Co-design for Outlier-Aware Quantization of LLMs with Inter-/Intra-Layer Adaptation](https://dl.acm.org/doi/abs/10.1145/3649329.3656221), **Chenhao Xue**, Chen Zhang, Xun Jiang, ZhuTianYa Gao, Yibo Lin, and Guangyu Sun. In the Proceedings of Design Automation Conference (**DAC**), Jun, 2024.
 
-[C3] Yizeng Han, Zhihang Yuan, Yifan Pu, **Chenhao Xue**, Shiji Song, Guangyu Sun, and Gao Huang. "Latency-aware Spatial-wise Dynamic Networks", in the Proceedings of Advances in Neural Information Processing Systems (**NIPS**), Nov, 2022.
+[C2] [Latency-aware Spatial-wise Dynamic Networks](https://proceedings.neurips.cc/paper_files/paper/2022/hash/ef472869c217bf693f2d9bbde66a6b07-Abstract-Conference.html), Yizeng Han, Zhihang Yuan, Yifan Pu, **Chenhao Xue**, Shiji Song, Guangyu Sun, and Gao Huang. In the Proceedings of Advances in Neural Information Processing Systems (**NIPS**), Nov, 2022.
 
-[C2] Zhihang Yuan, **Chenhao Xue**, Yiqi Chen, Qiang Wu, and Guangyu Sun. "PTQ4ViT: Post-training Quantization for Vision Transformers with Twin Uniform Quantization", in the Proceedings of European Conference on Computer Vision (**ECCV**), Oct, 2022.
-
-[C1] Zhihang Yuan, Yiqi Chen, Chenhao Xue, Chenguang Zhang, Qiankun Wang, and Guangyu Sun. "PTQ-SL: Exploring the Sub-Layerwise Post-Training Quantization", arXiv preprint, 2021
+[C1] [PTQ4ViT: Post-training Quantization for Vision Transformers with Twin Uniform Quantization](https://link.springer.com/chapter/10.1007/978-3-031-19775-8_12), Zhihang Yuan, **Chenhao Xue**, Yiqi Chen, Qiang Wu, and Guangyu Sun. In the Proceedings of European Conference on Computer Vision (**ECCV**), Oct, 2022.
