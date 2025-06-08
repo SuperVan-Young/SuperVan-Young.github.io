@@ -1,7 +1,13 @@
 ---
+title: "Experiences"
 permalink: /experiences/
+author_profile: true
 ---
 
 ## Education
-- Ph.D in Integrated Circuits Science and Engineering, Peking University, 2028 (Expected)
-- B.S. in Computer Science and Technology, Peking University, 2023
+- 2023.09 - Present: Ph.D student, School of Integrated Circuits, Peking University.
+- 2019.09 - 2023.07: Undergraduate student, School of Electronics Engineering and Computer Science, Peking University.
+
+
+## Internship
+- 2024.06 - 2024.10: National Center of Technology Innovation for EDA, Nanjing, China.
