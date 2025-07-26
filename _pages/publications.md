@@ -13,6 +13,10 @@ author_profile: true
 
 ## Conference Papers
 
+[C9] [MMCircuitEval: A Comprehensive Multimodal Circuit-Focused Benchmark for Evaluating LLMs](), Chenchen Zhao, Zhengyuan Shi, Xiangyu Wen, Chengjie Liu, Yi Liu, Yunhao Zhou, Yuxiang Zhao, Hefei Feng, Yinan Zhu, Gwok-Waa Wan, Xin Cheng, Weiyu Chen, Yongqi Fu, Chujie Chen, **Chenhao Xue**, Ying Wang, Yibo Lin, Jun Yang, Ning Xu, Xi Wang and Qiang Xu. In the Proceedings of International Conference on Computer-Aided Design (**ICCAD**), Oct, 2025.
+
+[C8] [Orthrus: Dual-Loop Automated Framework for System-Technology Co-Optimization](), 	Yi Ren, Baokang Peng, **Chenhao Xue**, Kairong Guo, Yukun Wang, Guoyao Cheng, Yibo Lin, Lining Zhang and Guangyu Sun. In the Proceedings of International Conference on Computer-Aided Design (**ICCAD**), Oct, 2025.
+
 [C7] [ForgeEDA: A Comprehensive Multimodal Dataset for Advancing EDA](https://arxiv.org/pdf/2505.02016), Zhengyuan Shi, Zeju Li, Chengyu Ma, Yunhao Zhou, Ziyang Zheng, Jiawei Liu, Hongyang Pan, Lingfeng Zhou, Kezhi Li, Jiaying Zhu, Lingwei Yan, Zhiqiang He, **Chenhao Xue**, Wentao Jiang, Fan Yang, Guangyu Sun, Xiaoyan Yang, Gang Chen, Chuan Shi, Zhufei Chu, Jun Yang, Qiang Xu. In the Proceedings of International Symposium of Electronic Design Automation (**ISEDA**), May, 2025.
 
 [C6] [DiffuSE: Cross-Layer Design Space Exploration of DNN Accelerator via Diffusion-Driven Optimization](https://arxiv.org/pdf/2503.23945), Yi Ren, **Chenhao Xue**, Jiaxing Zhang, Chen Zhang, Qiang Xu, Yibo Lin, Lining Zhang, Guangyu Sun. In the Proceedings of International Symposium of Electronic Design Automation (**ISEDA**), May, 2025.
