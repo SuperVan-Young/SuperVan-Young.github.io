@@ -10,6 +10,7 @@ author_profile: true
 
 
 ## Internship
+- 2025.11 - Now: Beijing Houmo Technology Co., Ltd., Beijing, China.
 - 2024.06 - 2024.10: National Center of Technology Innovation for EDA, Nanjing, China.
 
 

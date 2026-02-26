@@ -13,11 +13,15 @@ author_profile: true
 
 ## Conference Papers
 
-[C10] [AC-Refiner: Efficient Arithmetic Circuit Optimization Using Conditional Diffusion Models](https://arxiv.org/pdf/2507.02598),  **Chenhao Xue**, Kezhi Li, Jiaxing Zhang, Yi Ren, Zhengyuan Shi, Chen Zhang, Yibo Lin, Lining Zhang, Qiang Xu, Guangyu Sun. In the Proceedings of Asia and South Pacific Design Automation Conference (**ASP-DAC**), Jan, 2026.
+[C12] [AccelCIM: Systematic Dataflow Exploration for SRAM Compute-in-Memory Accelerator](), **Chenhao Xue**, Yukun Wang, An Guo, Yuhui Shi, Jinwei Zhou, Xiping Dong, Yihan Yin, Yuanpeng Zhang, Tianyu Jia, Wei Gao, Qiang Wu, Xin Si, Jun Yang, Guangyu Sun. In the Proceedings of Design Automation Conference (**DAC**), Jul, 2026.
 
-[C9] [MMCircuitEval: A Comprehensive Multimodal Circuit-Focused Benchmark for Evaluating LLMs](https://arxiv.org/abs/2507.19525), Chenchen Zhao, Zhengyuan Shi, Xiangyu Wen, Chengjie Liu, Yi Liu, Yunhao Zhou, Yuxiang Zhao, Hefei Feng, Yinan Zhu, Gwok-Waa Wan, Xin Cheng, Weiyu Chen, Yongqi Fu, Chujie Chen, **Chenhao Xue**, Ying Wang, Yibo Lin, Jun Yang, Ning Xu, Xi Wang, Qiang Xu. In the Proceedings of International Conference on Computer-Aided Design (**ICCAD**), Oct, 2025.
+[C11] [AC-Refiner: Efficient Arithmetic Circuit Optimization Using Conditional Diffusion Models](https://arxiv.org/pdf/2507.02598),  **Chenhao Xue**, Kezhi Li, Jiaxing Zhang, Yi Ren, Zhengyuan Shi, Chen Zhang, Yibo Lin, Lining Zhang, Qiang Xu, Guangyu Sun. In the Proceedings of Asia and South Pacific Design Automation Conference (**ASP-DAC**), Jan, 2026.
 
-[C8] [Orthrus: Dual-Loop Automated Framework for System-Technology Co-Optimization](https://arxiv.org/abs/2509.13029), 	Yi Ren, Baokang Peng, **Chenhao Xue**, Kairong Guo, Yukun Wang, Guoyao Cheng, Yibo Lin, Lining Zhang, Guangyu Sun. In the Proceedings of International Conference on Computer-Aided Design (**ICCAD**), Oct, 2025.
+[C10] [MMCircuitEval: A Comprehensive Multimodal Circuit-Focused Benchmark for Evaluating LLMs](https://arxiv.org/abs/2507.19525), Chenchen Zhao, Zhengyuan Shi, Xiangyu Wen, Chengjie Liu, Yi Liu, Yunhao Zhou, Yuxiang Zhao, Hefei Feng, Yinan Zhu, Gwok-Waa Wan, Xin Cheng, Weiyu Chen, Yongqi Fu, Chujie Chen, **Chenhao Xue**, Ying Wang, Yibo Lin, Jun Yang, Ning Xu, Xi Wang, Qiang Xu. In the Proceedings of International Conference on Computer-Aided Design (**ICCAD**), Oct, 2025.
+
+[C9] [Orthrus: Dual-Loop Automated Framework for System-Technology Co-Optimization](https://arxiv.org/abs/2509.13029), 	Yi Ren, Baokang Peng, **Chenhao Xue**, Kairong Guo, Yukun Wang, Guoyao Cheng, Yibo Lin, Lining Zhang, Guangyu Sun. In the Proceedings of International Conference on Computer-Aided Design (**ICCAD**), Oct, 2025.
+
+[C8] [Lembda: Optimizing LLM Inference on Embedded Platforms via CPU/FPGA Co-processing](https://link.springer.com/chapter/10.1007/978-981-95-1021-4_35), Jinwei Zhou, **Chenhao Xue**, Xiping Dong, Yi Ren, Jiaxing Zhang, Guangyu Sun, Xinnan Lin. Research Poster of International Symposium of Advanced Parallel Processing Technologies (**APPT**), July, 2025.
 
 [C7] [ForgeEDA: A Comprehensive Multimodal Dataset for Advancing EDA](https://ieeexplore.ieee.org/document/11101194), Zhengyuan Shi, Zeju Li, Chengyu Ma, Yunhao Zhou, Ziyang Zheng, Jiawei Liu, Hongyang Pan, Lingfeng Zhou, Kezhi Li, Jiaying Zhu, Lingwei Yan, Zhiqiang He, **Chenhao Xue**, Wentao Jiang, Fan Yang, Guangyu Sun, Xiaoyan Yang, Gang Chen, Chuan Shi, Zhufei Chu, Jun Yang, Qiang Xu. In the Proceedings of International Symposium of Electronic Design Automation (**ISEDA**), May, 2025.
 
