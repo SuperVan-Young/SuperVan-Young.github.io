@@ -16,7 +16,7 @@ During the undergraduate study, I mainly worked on efficient AI algorithm and AI
 
 ## Selected Publications
 
-- [AccelCIM: Systematic Dataflow Exploration for SRAM Compute-in-Memory Accelerator](), **Chenhao Xue**, Yukun Wang, An Guo, Yuhui Shi, Jinwei Zhou, Xiping Dong, Yihan Yin, Yuanpeng Zhang, Tianyu Jia, Wei Gao, Qiang Wu, Xin Si, Jun Yang, Guangyu Sun. In the Proceedings of Design Automation Conference (**DAC**), Jul, 2026.
+- [AccelCIM: Systematic Dataflow Exploration for SRAM Compute-in-Memory Accelerator](https://arxiv.org/pdf/2604.17692), **Chenhao Xue**, Yukun Wang, An Guo, Yuhui Shi, Jinwei Zhou, Xiping Dong, Yihan Yin, Yuanpeng Zhang, Tianyu Jia, Wei Gao, Qiang Wu, Xin Si, Jun Yang, Guangyu Sun. In the Proceedings of Design Automation Conference (**DAC**), Jul, 2026.
 
 - [AC-Refiner: Efficient Arithmetic Circuit Optimization Using Conditional Diffusion Models](https://arxiv.org/pdf/2507.02598),  **Chenhao Xue**, Kezhi Li, Jiaxing Zhang, Yi Ren, Zhengyuan Shi, Chen Zhang, Yibo Lin, Lining Zhang, Qiang Xu, Guangyu Sun. In the Proceedings of Asia and South Pacific Design Automation Conference (**ASP-DAC**), Jan, 2026.
 
