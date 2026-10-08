@@ -7,11 +7,19 @@ author_profile: true
 
 ## Journals
 
+[J3] [Isolation-Aware Scheduling Framework for DNN-Based End-to-End Autonomous Driving System on Tile-Based Accelerators](https://doi.org/10.1109/TC.2026.3702580), Chenguang Zhang, Yuanpeng Zhang, **Chenhao Xue**, Yihan Yin, Chen Zhang, Guangyu Sun. In the IEEE Transactions on Computers (**TC**), Sep, 2026.
+
 [J2] [Theseus: Exploring efficient wafer-scale chip design for large language models](https://arxiv.org/pdf/2407.02079), Jingchen Zhu, **Chenhao Xue**, Yiqi Chen, Zhao Wang, Chen Zhang, Yu Shen, Yifan Chen, Zekang Cheng, Yu Jiang, Tianqi Wang, Yibo Lin, Wei Hu, Bin Cui, Runsheng Wang, Yun Liang, Guangyu Sun. In the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), May, 2025. 
 
 [J1] [Large circuit models: opportunities and challenges](https://link.springer.com/article/10.1007/s11432-024-4155-7), Lei Chen, Yiqi Chen, Zhufei Chu, Wenji Fang, Tsung-Yi Ho, Ru Huang, Yu Huang, Sadaf Khan, Min Li, Xingquan Li, Yu Li, Yun Liang, Jinwei Liu, Yi Liu, Yibo Lin, Guojie Luo, Hongyang Pan, Zhengyuan Shi, Guangyu Sun, Dimitrios Tsaras, Runsheng Wang, Ziyi Wang, Xinming Wei, Zhiyao Xie, Qiang Xu, **Chenhao Xue**, Junchi Yan, Jun Yang, Bei Yu, Mingxuan Yuan, Evangeline FY Young, Xuan Zeng, Haoyi Zhang, Zuodong Zhang, Yuxiang Zhao, Hui-Ling Zhen, Ziyang Zheng, Binwu Zhu, Keren Zhu, Sunan Zou. In the Science China Information Sciences, Oct, 2024.
 
 ## Conference Papers
+
+[C15] [ATLAS: Pathfinding Efficient 3D-DRAM-based LLM Inference Accelerator Design via Silicon-Proven Full-Stack Simulation](https://microarch.org/micro59/program/), Cong Li, **Chenhao Xue**, Yi Ren, Xiping Dong, Yu Cheng, Yinbo Hu, Fujun Bai, Yixin Guo, Xiping Jiang, Qiang Wu, Zhi Yang, Zhe Cheng, Yuan Xie, Guangyu Sun. In the Proceedings of the 59th IEEE/ACM International Symposium on Microarchitecture (**MICRO**), Nov, 2026.
+
+[C14] [Helios: Enabling Dynamic KV Cache Management for Near-Memory Processing via Hybrid-Bonding-based 3D-DRAM](https://microarch.org/micro59/program/), Cong Li, Yihan Yin, **Chenhao Xue**, Zhao Wang, Fujun Bai, Yixin Guo, Xiping Jiang, Qiang Wu, Yuan Xie, Guangyu Sun. In the Proceedings of the 59th IEEE/ACM International Symposium on Microarchitecture (**MICRO**), Nov, 2026.
+
+[C13] [CODA: Algorithm-Hardware Co-design for Edge Video Diffusion via NMP-Enabled Compute-Cache Operator Disaggregation](https://microarch.org/micro59/program/), Yuanpeng Zhang, YuXuan Wu, Yitong Xiao, **Chenhao Xue**, Yi Ren, Cong Li, Yihan Yin, Dimin Niu, Guangyu Sun. In the Proceedings of the 59th IEEE/ACM International Symposium on Microarchitecture (**MICRO**), Nov, 2026.
 
 [C12] [AccelCIM: Systematic Dataflow Exploration for SRAM Compute-in-Memory Accelerator](https://arxiv.org/pdf/2604.17692), **Chenhao Xue**, Yukun Wang, An Guo, Yuhui Shi, Jinwei Zhou, Xiping Dong, Yihan Yin, Yuanpeng Zhang, Tianyu Jia, Wei Gao, Qiang Wu, Xin Si, Jun Yang, Guangyu Sun. In the Proceedings of Design Automation Conference (**DAC**), Jul, 2026.
 
