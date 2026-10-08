@@ -16,7 +16,7 @@ During the undergraduate study, I mainly worked on efficient AI algorithm and AI
 
 ## Selected Publications
 
-- [AccelCIM: Systematic Dataflow Exploration for SRAM Compute-in-Memory Accelerator](https://arxiv.org/pdf/2604.17692), **Chenhao Xue**, Yukun Wang, An Guo, Yuhui Shi, Jinwei Zhou, Xiping Dong, Yihan Yin, Yuanpeng Zhang, Tianyu Jia, Wei Gao, Qiang Wu, Xin Si, Jun Yang, Guangyu Sun. In the Proceedings of Design Automation Conference (**DAC**), Jul, 2026.
+- [AccelCIM: Systematic Dataflow Exploration for SRAM Compute-in-Memory Accelerator](https://arxiv.org/pdf/2604.17692), **Chenhao Xue**<sup>1</sup>, Yukun Wang<sup>1</sup>, An Guo, Yuhui Shi, Jinwei Zhou, Xiping Dong, Yihan Yin, Yuanpeng Zhang, Tianyu Jia, Wei Gao, Qiang Wu, Xin Si, Jun Yang, Guangyu Sun. In the Proceedings of Design Automation Conference (**DAC**), Jul, 2026.
 
 - [AC-Refiner: Efficient Arithmetic Circuit Optimization Using Conditional Diffusion Models](https://arxiv.org/pdf/2507.02598),  **Chenhao Xue**, Kezhi Li, Jiaxing Zhang, Yi Ren, Zhengyuan Shi, Chen Zhang, Yibo Lin, Lining Zhang, Qiang Xu, Guangyu Sun. In the Proceedings of Asia and South Pacific Design Automation Conference (**ASP-DAC**), Jan, 2026.
 
@@ -24,4 +24,4 @@ During the undergraduate study, I mainly worked on efficient AI algorithm and AI
 
 - [Oltron: Software-Hardware Co-design for Outlier-Aware Quantization of LLMs with Inter-/Intra-Layer Adaptation](https://dl.acm.org/doi/abs/10.1145/3649329.3656221), **Chenhao Xue**, Chen Zhang, Xun Jiang, ZhuTianYa Gao, Yibo Lin, Guangyu Sun. In the Proceedings of Design Automation Conference (**DAC**), Jun, 2024.
 
-- [PTQ4ViT: Post-training Quantization for Vision Transformers with Twin Uniform Quantization](https://link.springer.com/chapter/10.1007/978-3-031-19775-8_12), Zhihang Yuan, **Chenhao Xue**, Yiqi Chen, Qiang Wu, Guangyu Sun. In the Proceedings of European Conference on Computer Vision (**ECCV**), Oct, 2022.
+- [PTQ4ViT: Post-training Quantization for Vision Transformers with Twin Uniform Quantization](https://link.springer.com/chapter/10.1007/978-3-031-19775-8_12), Zhihang Yuan<sup>1</sup>, **Chenhao Xue**<sup>1</sup>, Yiqi Chen, Qiang Wu, Guangyu Sun. In the Proceedings of European Conference on Computer Vision (**ECCV**), Oct, 2022.

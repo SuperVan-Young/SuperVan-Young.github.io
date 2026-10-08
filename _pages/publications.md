@@ -21,7 +21,7 @@ author_profile: true
 
 [C13] [CODA: Algorithm-Hardware Co-design for Edge Video Diffusion via NMP-Enabled Compute-Cache Operator Disaggregation](https://microarch.org/micro59/program/), Yuanpeng Zhang, YuXuan Wu, Yitong Xiao, **Chenhao Xue**, Yi Ren, Cong Li, Yihan Yin, Dimin Niu, Guangyu Sun. In the Proceedings of the 59th IEEE/ACM International Symposium on Microarchitecture (**MICRO**), Nov, 2026.
 
-[C12] [AccelCIM: Systematic Dataflow Exploration for SRAM Compute-in-Memory Accelerator](https://arxiv.org/pdf/2604.17692), **Chenhao Xue**, Yukun Wang, An Guo, Yuhui Shi, Jinwei Zhou, Xiping Dong, Yihan Yin, Yuanpeng Zhang, Tianyu Jia, Wei Gao, Qiang Wu, Xin Si, Jun Yang, Guangyu Sun. In the Proceedings of Design Automation Conference (**DAC**), Jul, 2026.
+[C12] [AccelCIM: Systematic Dataflow Exploration for SRAM Compute-in-Memory Accelerator](https://arxiv.org/pdf/2604.17692), **Chenhao Xue**<sup>1</sup>, Yukun Wang<sup>1</sup>, An Guo, Yuhui Shi, Jinwei Zhou, Xiping Dong, Yihan Yin, Yuanpeng Zhang, Tianyu Jia, Wei Gao, Qiang Wu, Xin Si, Jun Yang, Guangyu Sun. In the Proceedings of Design Automation Conference (**DAC**), Jul, 2026.
 
 [C11] [AC-Refiner: Efficient Arithmetic Circuit Optimization Using Conditional Diffusion Models](https://arxiv.org/pdf/2507.02598),  **Chenhao Xue**, Kezhi Li, Jiaxing Zhang, Yi Ren, Zhengyuan Shi, Chen Zhang, Yibo Lin, Lining Zhang, Qiang Xu, Guangyu Sun. In the Proceedings of Asia and South Pacific Design Automation Conference (**ASP-DAC**), Jan, 2026.
 
@@ -43,4 +43,4 @@ author_profile: true
 
 [C2] [Latency-aware Spatial-wise Dynamic Networks](https://proceedings.neurips.cc/paper_files/paper/2022/hash/ef472869c217bf693f2d9bbde66a6b07-Abstract-Conference.html), Yizeng Han, Zhihang Yuan, Yifan Pu, **Chenhao Xue**, Shiji Song, Guangyu Sun, Gao Huang. In the Proceedings of Advances in Neural Information Processing Systems (**NIPS**), Nov, 2022.
 
-[C1] [PTQ4ViT: Post-training Quantization for Vision Transformers with Twin Uniform Quantization](https://link.springer.com/chapter/10.1007/978-3-031-19775-8_12), Zhihang Yuan, **Chenhao Xue**, Yiqi Chen, Qiang Wu, Guangyu Sun. In the Proceedings of European Conference on Computer Vision (**ECCV**), Oct, 2022.
+[C1] [PTQ4ViT: Post-training Quantization for Vision Transformers with Twin Uniform Quantization](https://link.springer.com/chapter/10.1007/978-3-031-19775-8_12), Zhihang Yuan<sup>1</sup>, **Chenhao Xue**<sup>1</sup>, Yiqi Chen, Qiang Wu, Guangyu Sun. In the Proceedings of European Conference on Computer Vision (**ECCV**), Oct, 2022.
